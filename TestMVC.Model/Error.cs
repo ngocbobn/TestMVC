@@ -18,5 +18,6 @@ namespace TestMVC.Model
         public DateTime CreatedDate { set; get; }
 
         public string Test { set; get; }
+        public string ABC { set; get; }
     }
 }
