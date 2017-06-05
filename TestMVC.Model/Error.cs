@@ -16,8 +16,5 @@ namespace TestMVC.Model
         public string STackTrace { set; get; }
 
         public DateTime CreatedDate { set; get; }
-
-        public string Test { set; get; }
-        public string ABC { set; get; }
     }
 }
